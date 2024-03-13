@@ -12,3 +12,4 @@
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
