@@ -1,0 +1,14 @@
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
