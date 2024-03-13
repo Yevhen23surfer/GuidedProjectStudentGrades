@@ -12,3 +12,4 @@
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
